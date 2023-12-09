@@ -1,6 +1,6 @@
 <template>
   <section class="friend scroll" id="friend">
-    <img src="images/friend__img.jpg" alt="" class="friend__img">
+    <img src="/images/friend__img.jpg" alt="" class="friend__img">
     <div class="friend__outer">
       <div class="friend__message">
         <p class="friend__text">ほっこりと温かくすることでしょう。</p>
@@ -28,9 +28,9 @@
     </button>
     <div class="background">
       <img v-bind:class="{ friend__crowd }" class="background__crowd background__crowd--right"
-        src="images/background__crowd--right.svg">
+        src="/images/background__crowd--right.svg">
       <img v-bind:class="{ friend__icon }" class="background__icon background__icon--right"
-        src="images/background__icon--right.svg">
+        src="/images/background__icon--right.svg">
     </div>
   </section>
 </template>

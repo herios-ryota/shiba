@@ -2,11 +2,11 @@
   <section class="faq scroll" id="faq">
     <div class="background">
       <img v-bind:class="{ faq__crowd }" class="background__crowd background__crowd--right"
-        src="images/background__crowd--right.svg">
+        src="/images/background__crowd--right.svg">
       <img v-bind:class="{ faq__icon }" class="background__icon background__icon--right"
-        src="images/background__icon--right.svg">
+        src="/images/background__icon--right.svg">
     </div>
-    <img src="images/faq__img.jpg" alt="" class="faq__img">
+    <img src="/images/faq__img.jpg" alt="" class="faq__img">
     <div class="faq__outer">
       <div class="faq__message">
         <p class="faq__text">回答をご覧いただけます。</p>

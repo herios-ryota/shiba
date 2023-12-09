@@ -2,13 +2,13 @@
   <section id="concept" class="concept">
     <div class="background">
       <img v-bind:class="{ concept__crowd }" class="background__crowd background__crowd--right"
-        src="images/background__crowd--right.svg">
+        src="/images/background__crowd--right.svg">
       <img v-bind:class="{ concept__icon }" class="background__icon background__icon--right"
-        src="images/background__icon--right.svg">
+        src="/images/background__icon--right.svg">
       <img v-bind:class="{ concept__icon }" class="background__icon background__icon--left"
-        src="images/background__icon--left.svg">
+        src="/images/background__icon--left.svg">
       <img v-bind:class="{ concept__crowd }" class="background__crowd background__crowd--left"
-        src="images/background__crowd--left.svg">
+        src="/images/background__crowd--left.svg">
     </div>
     <div class="container">
       <div class="concept__message">

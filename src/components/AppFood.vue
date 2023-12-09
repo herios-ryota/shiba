@@ -2,9 +2,9 @@
   <section class="food scroll" id="food">
     <div class="background">
       <img v-bind:class="{ food__icon }" class="background__icon background__icon--left"
-        src="images/background__icon--left.svg">
+        src="/images/background__icon--left.svg">
     </div>
-    <img src="images/food__img.jpg" alt="" class="food__img">
+    <img src="/images/food__img.jpg" alt="" class="food__img">
     <div class="food__outer">
       <div class="food__message">
         <p class="food__text">お客様の好みに合わせて選べます</p>
