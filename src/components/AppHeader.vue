@@ -3,7 +3,7 @@
     <div class="header__outer">
       <a href="" class="header__logo">
         <h1>
-          <img src="/images/header__logo.svg" alt="" class="header__icon">
+          <img src="images/header__logo.svg" alt="" class="header__icon">
         </h1>
       </a>
       <div class="header__unit">

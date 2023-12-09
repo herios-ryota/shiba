@@ -2,15 +2,15 @@
   <section class="access scroll" id="access">
     <div class="background">
       <img v-bind:class="{ access__crowdRight }" class="background__crowd background__crowd--right"
-        src="/images/background__crowd--right.svg">
+        src="images/background__crowd--right.svg">
       <img v-bind:class="{ access__iconRight }" class="background__icon background__icon--right"
-        src="/images/background__icon--right.svg">
+        src="images/background__icon--right.svg">
       <img v-bind:class="{ access__iconLeft }" class="background__icon background__icon--left"
-        src="/images/background__icon--left.svg">
+        src="images/background__icon--left.svg">
       <img v-bind:class="{ access__crowdLeft }" class="background__crowd background__crowd--left"
-        src="/images/background__crowd--left.svg">
+        src="images/background__crowd--left.svg">
     </div>
-    <img src="/images/access__img.jpg" alt="" class="food__img">
+    <img src="images/access__img.jpg" alt="" class="food__img">
     <div class="food__outer">
       <div class="food__message">
         <p class="food__text">最寄駅や営業時間などお確かめ下さい。</p>
