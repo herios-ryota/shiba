@@ -45,7 +45,7 @@ export default {
       dog: [
         {
           id: 1,
-          dogImage: '/images/friend__image01.png',
+          dogImage: 'images/friend__image01.png',
           dogName: 'しろ（Shiro）',
           message:
             `真っ白な、美しく優雅な柴犬、しろ。雪が舞うような芳醇な雰囲気と、品のある立ち居振る舞いが彼女の魅力です。訪れる皆さんに癒しと優雅なひとときをお届けします。
@@ -59,7 +59,7 @@ export default {
         },
         {
           id: 2,
-          dogImage: '/images/friend__image02.png',
+          dogImage: 'images/friend__image02.png',
           dogName: 'わらび（Warabi）',
           message:
             `元気いっぱいの柴犬冒険者、わらび。彼の好奇心旺盛な性格と、どこまでも走り回る元気さが、カフェを訪れる皆さんに活気と笑顔をもたらします。
@@ -72,7 +72,7 @@ export default {
         },
         {
           id: 3,
-          dogImage: '/images/friend__image03.png',
+          dogImage: 'images/friend__image03.png',
           dogName: 'もも（Momo）',
           message:
             `元気いっぱいの柴犬冒険者、わらび。彼の好奇心旺盛な性格と、どこまでも走り回る元気さが、カフェを訪れる皆さんに活気と笑顔をもたらします。
@@ -85,7 +85,7 @@ export default {
         },
         {
           id: 4,
-          dogImage: '/images/friend__image04.png',
+          dogImage: 'images/friend__image04.png',
           dogName: 'こてつ (Kotetsu)',
           message:
             `知的で好奇心旺盛な男の子。お客様の手の中に鼻を突っ込み、新しい匂いや感触を楽しむことが大好き。
@@ -98,7 +98,7 @@ export default {
         },
         {
           id: 5,
-          dogImage: '/images/friend__image05.png',
+          dogImage: 'images/friend__image05.png',
           dogName: 'ひなた (Hinata)',
           message:
             `おおらかでおっとりとした性格の女の子。日向ぼっこが好きで、穏やかな陽射しの中でのんびり過ごすのが幸せ。
