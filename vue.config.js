@@ -4,4 +4,11 @@ module.exports = defineConfig({
   outputDir: 'docs',
   assetsDir: './',
   publicPath: './',
+  css: {
+    loaderOptions: {
+      scss: {
+        data: '@import "./src/styles/common/common.scss";'
+      }
+    }
+  }
 });
